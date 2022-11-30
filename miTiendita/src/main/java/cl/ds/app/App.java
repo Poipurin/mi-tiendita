@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Bienvenido a mi tiendita, hago todo en string si señor (●´ω｀●)" );
     }
 }
