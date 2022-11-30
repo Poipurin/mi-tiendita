@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f25d90b7-0b94-472e-916a-f5456a967019" name="Changes" comment="" />
+    <list default="true" id="f25d90b7-0b94-472e-916a-f5456a967019" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/bpino/Desktop/Clases ds",
+    "last_opened_file_path": "C:/Users/bpino/Desktop/Clases ds/mi-tiendita",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669777045361</updated>
       <workItem from="1669777052881" duration="1100000" />
+      <workItem from="1669778501993" duration="488000" />
     </task>
     <servers />
   </component>
