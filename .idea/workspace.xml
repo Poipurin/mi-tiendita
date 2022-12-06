@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f25d90b7-0b94-472e-916a-f5456a967019" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="f25d90b7-0b94-472e-916a-f5456a967019" name="Changes" comment="(●´ω｀●)">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/bpino/Desktop/Clases ds/mi-tiendita",
+    "last_opened_file_path": "C:/Users/bpino/Desktop/Clases ds/projectoZero",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,7 +53,16 @@
       <updated>1669777045361</updated>
       <workItem from="1669777052881" duration="1100000" />
       <workItem from="1669778501993" duration="488000" />
+      <workItem from="1669836515723" duration="80000" />
+      <workItem from="1670210052880" duration="24000" />
     </task>
+    <task id="LOCAL−00001" summary="(●´ω｀●)">
+      <created>1669780232920</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1669780232920</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,6 +78,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="(●´ω｀●)" />
+    <option name="LAST_COMMIT_MESSAGE" value="(●´ω｀●)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
